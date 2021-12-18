@@ -46,6 +46,10 @@ In this section, we will take a look at how to manage certificates and certifica
   ```
   $ kubectl get csr
   ```
+- To deny the csr's
+  ```
+  $ kubectl certificate deny agent-smith
+  ```
 - Approve the request
   ```
   $ kubectl certificate approve jane
