@@ -3,6 +3,7 @@
   - Take me to [Lecture](https://kodekloud.com/topic/pod-networking/)
 
 In this section, we will take a look at **Pod Networking**
+![image](https://user-images.githubusercontent.com/58213954/148072606-748b734f-0560-4eed-b5ce-949918a19ba8.png)
 
 
 - To add bridge network on each node
